@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello — my name is David Nkwocha. I am an aspiring web designer and software engineer who volunteers in my community. I enjoy working on web projects, learning programming fundamentals, and exploring how technology can solve real problems.
+
+In my free time I like playing soccer, watching movies, and reading. This repository is part of my GitHub learning tasks and will hold small exercises and practice files as I learn.
